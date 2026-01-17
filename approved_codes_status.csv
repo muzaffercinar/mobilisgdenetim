@@ -1,4 +1,3 @@
-il,ilce,status,unvan
-IZMIR035,İzmir,Merkez,aktif,İş Güvenliği Uzmanı
-IZMIR_36,İzmir,Merkez,aktif,İş Güvenliği Uzmanı
-code,status,unvan
+code,status
+IZMIR035,aktif
+IZMIR_36,aktif
